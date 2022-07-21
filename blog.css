@@ -1,0 +1,14 @@
+.abcde{
+    margin: 0px,0px,0px,2rem;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.abcde:hover{
+    background-color: orange;
+    color: white;
+    border: 2px solid white;
+}
+a{
+    text-decoration: none;
+}
